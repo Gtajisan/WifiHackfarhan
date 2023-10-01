@@ -1,4 +1,4 @@
-# Encrypted By FARAH-SUPERUSERS
+# Encrypted By FARHAN MUH TASIM
 # https://github.com/Gtajisan
 # Time : Thu Apr 13 13:38:03 2023
 # -------------------------------
