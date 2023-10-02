@@ -110,6 +110,11 @@ TL-WR850N 1.0
 TL-WR850N 2.0
 TL-WR850N 3.0
 TL-WR1042N EV-2010-09-20
+TP-Link Archer C7 (AC1750)
+TP-Link Archer A7 (AC1750)
+TP-Link Archer C9 (AC1900)
+TP-Link Archer C4000 (AC4000)
+TP-Link Archer AX6000 (AX6000)
 Trendnet router TEW-625br
 Trendnet router TEW-651br
 VN020-F3 1.0
@@ -197,6 +202,9 @@ ASUS WPS Router/WPS Router RT-AC65P
 ASUS WPS Router/WPS Router RT-AC51
 ASUS WPS Router/WPS Router RT-AC1750U
 ASUS WPS Router/WPS Router RT-AC51
+Mercusys MW305R
+Mercusys MW305R V3
+Mercusys MW305R V2
 ZyXEL NBG-416N AP Router
 ZyXEL NBG-416N AP Router NBG-416N
 ZyXEL NBG-418N AP Router
