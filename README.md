@@ -94,6 +94,6 @@ Launch online WPS bruteforce with the specified first half of the PIN:
 
 ## Thanks For Using This Tool 🐸🙄
 ## ki obsta 🤡
-## cd WifiHackfaran
+## cd WifiHackfarhan
 ## sudo python WifiHackfarhan/WifiHackfarhan.py -i wlan0 -K
 
