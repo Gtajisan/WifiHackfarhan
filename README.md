@@ -4,7 +4,7 @@
 apt update && apt upgrade && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && git clone --depth 1 https://github.com/Gtajisan/WifiHackfarhan && cd WifiHackfarhan && sudo python WifiHackfarhan.py -i wlan0 -K && sudo python WifiHackfarhan/WifiHackfarhan.py -i wlan0 -K
 ```
 ### Hack WIfi Using Termux! (Requires Root)
-<a href="https://ibb.co/k3YjL2K"><img src="https://i.ibb.co/k3YjL2K/Screenshot-20231003-083750-Termux.png" alt="Screenshot-20231003-083750-Termux" border="0"></a>
+[url=https://ibb.co/k3YjL2K][img]https://i.ibb.co/HNm6cT7/Screenshot-20231003-083750-Termux.png[/img][/url]
 
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
