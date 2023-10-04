@@ -8,6 +8,29 @@
 ```bash
 apt update && apt upgrade && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && git clone --depth 1 https://github.com/Gtajisan/WifiHackfarhan && cd WifiHackfarhan && sudo python WifiHackfarhan.py -i wlan0 -K 
 ```
+## Feutures and Contains :
+
+
+```bash 
+
+1)Scan Networks   
+
+2)Getting Handshake
+
+3)Create passed crack 
+
+4)Install Wireless supported                  
+
+5)WPS Networks attacks 
+
+6)Scan for WPS Networks
+
+7)Crack WiFi all of tham
+
+8)Crack Handshake without monitor mod support 
+```
+
+
 ### Hack WIfi Using Termux! (Requires Root)
 ![image](https://github.com/Gtajisan/WifiHackfarhan/assets/124022055/4a7add22-11b7-4443-a44c-6794431589b2)
 
