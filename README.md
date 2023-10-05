@@ -41,9 +41,8 @@ apt update && apt upgrade && pkg install -y root-repo && pkg install -y git tsu 
 * Parrot OS (🚫)
 * তুমি আছো তুমি নাই (🤣)
 
-
 ### Hack WIfi Using Termux! (Requires Root)
-![image](https://github.com/Gtajisan/WifiHackfarhan/assets/124022055/4a7add22-11b7-4443-a44c-6794431589b2)
+<p align="center"><img src="https://c.top4top.io/p_2834522a60.png"></
 
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
