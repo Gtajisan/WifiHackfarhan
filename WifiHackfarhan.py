@@ -18,12 +18,19 @@ import statistics
 import csv
 from typing import Dict
 
-print('''
-\033[1;92m Recoded By FARHAN_MUH_TASIM 3.0
-Telegram:https://t.me/FARHAN_MUH_TASIM
-One line Command:\nsudo python WifiHackfarhan/WifiHackfarhan.py -i wlan0 -K\n
-For Help Type:\npython WifiHackfarhan/farhan.py --help\033[0m
-''')
+print("""\033[1;31m
+---------------------------------------------------------------------------------------
+▒█░░▒█ ▀█▀ ▒█▀▀▀ ▀█▀ ░░ ▒█░▒█ ░█▀▀█ ▒█▀▀█ ▒█░▄▀ 
+▒█▒█▒█ ▒█░ ▒█▀▀▀ ▒█░ ▀▀ ▒█▀▀█ ▒█▄▄█ ▒█░░░ ▒█▀▄░ 
+▒█▄▀▄█ ▄█▄ ▒█░░░ ▄█▄ ░░ ▒█░▒█ ▒█░▒█ ▒█▄▄█ ▒█░▒█
+                   Coded By WhiteHatHacker-FARHAN MUH TASIM
+---------------------------------------------------------------------------------------                                                                     
+ Recoded By FARHAN_MUH_TASIM *(🐸)*
+ Telegram:https://t.me/FARHAN_MUH_TASIM
+ one line command : sudo python WifiHackfarhan/WifiHackfarhan.py -i wlan0 -K
+ for any help contact Facebook : Farhan Muh Tasim (nasa hack)*🤣*
+-----------------------------------------------------------------------
+""")
 class NetworkAddress:
     def __init__(self, mac):
         if isinstance(mac, int):
