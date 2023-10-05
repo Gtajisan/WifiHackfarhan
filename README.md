@@ -44,6 +44,8 @@ apt update && apt upgrade && pkg install -y root-repo && pkg install -y git tsu 
 ### Hack WIfi Using Termux! (Requires Root)
 <p align="center"><img src="https://c.top4top.io/p_2834522a60.png"></
 
+
+
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
 
