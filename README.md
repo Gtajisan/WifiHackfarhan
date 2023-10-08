@@ -6,7 +6,7 @@
 ### One click Installation :
 
 ```bash
-apt update && apt upgrade && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && git clone --depth 1 https://github.com/Gtajisan/WifiHackfarhan && cd WifiHackfarhan && sudo python WifiHackfarhan.py -i wlan0 -K 
+apt update && apt upgrade && pkg install tsu && pkg install python && pkg install git && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && git clone --depth 1 https://github.com/Gtajisan/WifiHackfarhan && cd WifiHackfarhan && sudo python WifiHackfarhan.py -i wlan0 -K
 ```
 ## Feutures and Contains :
 
