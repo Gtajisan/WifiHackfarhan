@@ -42,7 +42,7 @@ apt update && apt upgrade && pkg install tsu && pkg install python && pkg instal
 * তুমি আছো তুমি নাই (🤣)
 
 ### Hack WIfi Using Termux! (Requires Root)
-<p align="center"><img src="https://c.top4top.io/p_2834522a60.png"></
+<p align="center"><img src="https://d.top4top.io/p_2840zwirb0.png"></
 
 
 
