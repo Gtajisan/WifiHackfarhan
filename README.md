@@ -2,6 +2,11 @@
 [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
+### How to update WifiHack
+To check for updates and update, run the following command:
+```
+(cd WifiHackfarhan && git pull)
+```
 
 ### One click Installation :
 
