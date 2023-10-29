@@ -991,16 +991,29 @@ class WiFiScanner:
         return network_list
 
     def prompt_network(self) -> str:
-        os.system('clear')
-        print('''\033[0;96m 
-███████╗██╗░░██╗███╗░░██╗
-██╔════╝██║░░██║████╗░██║
-█████╗░░███████║██╔██╗██║
-██╔══╝░░██╔══██║██║╚████║
-██║░░░░░██║░░██║██║░╚███║
-╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚══ \033[1;36mFARHAN-MUH-TASIM
+        os.system('cls||clear')
+print("""\033[1;32m
 
- \n\t\t[\033[1;32m*\033[1;37m] NAME:FARHAN MUH TASIM \n\t\t[\033[1;32m*\033[1;37m] ONE-LINE:sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K\n\t\t[\033[1;32m*\033[1;37m] Create  by: Farhan \n\t\t[\033[1;32m*\033[1;37m] Version     :FARHAN2.0 \n\t\t[\033[1;32m*\033[1;37m] FACEBOOK:@FARHAN MUH TASIM \n''')
+███████╗██████╗░███╗░░██╗░░░░░░░██╗░░░░░░░██╗██╗███████╗██╗
+██╔════╝██╔══██╗████╗░██║░░░░░░░██║░░██╗░░██║██║██╔════╝██║
+█████╗░░██████╔╝██╔██╗██║█████╗░╚██╗████╗██╔╝██║█████╗░░██║
+██╔══╝░░██╔══██╗██║╚████║╚════╝░░████╔═████║░██║██╔══╝░░██║
+██║░░░░░██║░░██║██║░╚███║░░░░░░░░╚██╔╝░╚██╔╝░██║██║░░░░░██║
+╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚══╝░░░░░░░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝\033[1;36m2.0
+\033[1;36m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ \033[1;37mOwner   :            FARHAN MUH TASIM
+ \033[1;37mFacebook:            FARHAN MUH TASIM
+ \033[1;37mGithub  :            gtajisan X me
+ \033[1;37mWhatsapp:            +880130505723*
+ \033[1;31mOne line Command:
+\033[1;31msudo python FARHAN-Shot2/FARHAN-Shot2.py -i wlan0 --iface-down -K
+
+ \033[1;31mFor Help : FB-AND-TELEGRAM
+
+ \033[1;31mNote    :       ROOT DEVICES ONLY
+\033[1;36m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+""")
+
         networks = self.iw_scanner()
         if not networks:
             ani('[\033[1;31m-\033[1;37m] No WPS networks found!')
